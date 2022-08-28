@@ -1,5 +1,6 @@
 ## 📖 Sobre.
-<p>São apenas alguns exercícios em python requisitados pela faculdade.</p>
+<p>São apenas alguns exercícios em <b> python </b> requisitados pela faculdade.</p>
+<p>ps... <b>(Obviamente não disponibilizarei todos os exercícios).</p>
 
 <br>
 
@@ -7,8 +8,8 @@
 <h3>Objetivo</h3>
 <p>Calcular o desconto de um produto.</p>
 
-- Código
-
+<details>
+<summary>Código</summary>
 <ul>
   <li>
 
@@ -68,11 +69,16 @@
  
   </li>
 </ul>
+</details>
+
+<br>
 
 ## 🛍️ Exercicío - 2
 <h3>Objetivo</h3>
 <p>Cadastrar um produto, Consultar produtos cadastrados e Remover produtos.</p>
 
+<details>
+<summary>Código</summary>
 <ul>
   <li>
 
@@ -298,3 +304,4 @@
   ```
   </li>
 </ul>
+<details>
