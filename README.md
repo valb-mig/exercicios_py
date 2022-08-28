@@ -10,8 +10,6 @@
 
 <details>
 <summary>Código</summary>
-<ul>
-  <li>
 
   ```#=== FUNÇÃO PARA ADICIONAR BORDAS AO TEXTO ===#
 
@@ -66,9 +64,7 @@
     print('Valor com desconto: {}R$ (desconto de 0%)\n'.format(valor))
 
   ```
- 
-  </li>
-</ul>
+
 </details>
 
 <br>
@@ -79,8 +75,6 @@
 
 <details>
 <summary>Código</summary>
-<ul>
-  <li>
 
   ```
   # FUNÇÃO PARA ADICIONAR LINHAS À TABELA.
@@ -302,6 +296,5 @@
         print('\n\n\n---------------> Opção inválida!!! <---------------')
         continue
   ```
-  </li>
-</ul>
+
 <details>
