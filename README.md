@@ -76,7 +76,8 @@
 <ul>
   <li>
 
-    ```# FUNÇÃO PARA ADICIONAR LINHAS À TABELA.
+  ```
+  # FUNÇÃO PARA ADICIONAR LINHAS À TABELA.
 
     def borda(texto,tamanho):
       print('\n+','-'*tamanho,'+')
@@ -294,7 +295,6 @@
       except ValueError:
         print('\n\n\n---------------> Opção inválida!!! <---------------')
         continue
-    ```
-
+  ```
   </li>
 </ul>
