@@ -1,6 +1,6 @@
 ## 📖 Sobre.
 <p>São apenas alguns exercícios em <b> python </b> requisitados pela faculdade.</p>
-<p>ps... <b>(Obviamente não disponibilizarei todos os exercícios).</p>
+<p>ps... <b>(Obviamente não disponibilizarei todos os exercícios)</b>.</p>
 
 <br>
 
