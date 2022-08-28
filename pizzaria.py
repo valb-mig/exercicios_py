@@ -110,4 +110,4 @@ while True:
 
 # FINALIZAÇÃO
 
-print('\nTotal a ser pago: {} R$'.format(total+valor))
+print('\nTotal a ser pago: R$ {:.2f}'.format(total+valor))
